@@ -5,6 +5,7 @@
   }
   .field-wrapper img {
     width: 100%;
+    /* testar en kommentar */
   }
   .field-wrapper > *:not(img) {
     position: absolute;
