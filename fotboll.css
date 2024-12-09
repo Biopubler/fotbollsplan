@@ -1,0 +1,92 @@
+.field-wrapper {
+    width: min(1000px, 100% - 3em);
+    margin-inline: auto;
+    position: relative;
+  }
+  .field-wrapper img {
+    width: 100%;
+  }
+  .field-wrapper > *:not(img) {
+    position: absolute;
+    width: 30px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background: white;
+    display: grid;
+    place-items: center;
+  }
+  .field-wrapper .player {
+    top: 47.5%;
+    left: 1.45%;
+  }
+  .field-wrapper .thingy {
+    top: 7.5%;
+    left: 15.50%;
+  }
+  .field-wrapper .playertv {
+    top: 29%;
+    left: 15.50%;
+  }
+  .field-wrapper .vidfyra {
+    top: 66%;
+    left: 15.50%;
+  }
+  .field-wrapper .fem {
+    top: 87%;
+    left: 15.50%;
+  }
+
+ .field-wrapper .sex {
+    top: 7.5%;
+    left: 31%;
+ }
+
+ .field-wrapper .sju {
+    top: 20%;
+    left: 46%;
+  
+ }
+
+
+ .field-wrapper .otta {
+     top: 29%;
+     left:31% ;
+
+ }
+
+ .field-wrapper .nio {
+    top:66% ;
+    left:31% ;
+
+ }
+
+ .field-wrapper .tio {
+    top:87% ;
+    left:31% ;
+
+ }
+
+
+ .field-wrapper .elva {
+     top: 73%;
+     left: 46%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
